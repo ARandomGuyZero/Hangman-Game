@@ -2,7 +2,7 @@
 Hangman Game
 
 Author: Alan
-Date: August 24th 2024
+Date: August 25th 2024
 
 This is a simple implementation of the classic Hangman game. 
 The player tries to guess the letters in a hidden word, with a limited number of lives. 
