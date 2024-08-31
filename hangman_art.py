@@ -1,3 +1,4 @@
+# List of stages using ASCII art
 stages = ['''
   +---+
   |   |
@@ -55,6 +56,7 @@ stages = ['''
 =========
 ''']
 
+# Logo art for the hangman game
 logo = ''' 
  _                                             
 | |                                            
