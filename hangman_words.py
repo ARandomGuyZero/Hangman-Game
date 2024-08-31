@@ -1,3 +1,4 @@
+# List of words for the hangman game
 word_list = [
     'abruptly',
     'absurd',
